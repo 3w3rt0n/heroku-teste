@@ -15,6 +15,6 @@ var server = http.createServer(function(request, response){
 	response.end();
 });
 
-server.listen(3000, function(){
+server.listen(process.env.PORT || 5000, function(){
 	console.log('Servidor rodando!');
 });

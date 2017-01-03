@@ -1,2 +1,2 @@
 # heroku-teste
-Teste de deploy no SaaS Heroku
+Teste de deploy no PaaS Heroku
